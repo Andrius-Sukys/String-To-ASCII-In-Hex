@@ -1,6 +1,6 @@
 The program converts a given string's symbols one by one to their respective ASCII codes in hexadecimal format, e.g. abC1 turns into 61 62 43 31.
 
-To RUN the program, [TASM] & [DosBox](https://sourceforge.net/projects/dosbox/) are required.
+To RUN the program, [TASM](https://klevas.mif.vu.lt/~linas1/KompArch/TASM.zip) & [DosBox](https://sourceforge.net/projects/dosbox/) are required.
 
 To LAUNCH and use the program:
 1) Put the project file inside TASM's installation folder.
