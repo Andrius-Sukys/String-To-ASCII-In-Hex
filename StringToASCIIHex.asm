@@ -1,5 +1,5 @@
 ; Andrius Šukys
-; Programa, kuri atspausdina įvestos simbolių eilutės ASCII kodus šešioliktainiu pavidalu, pvz., įvedus abC1 atspausdina 97 98 67 49
+; Programa, kuri atspausdina įvestos simbolių eilutės ASCII kodus šešioliktainiu pavidalu, pvz., įvedus abC1 atspausdina 61 62 43 31
 
 .MODEL Small    ; Nurodoma, kokio dydžio bus programinis kodas              
                     
